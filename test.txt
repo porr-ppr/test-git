@@ -1,7 +1,8 @@
-add some text in this file
+hello
 
-add line 2
+codecamp
 
 add line 3
 
 add line 4
+people
